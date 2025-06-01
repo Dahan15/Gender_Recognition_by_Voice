@@ -48,6 +48,7 @@ cost after iteration 0: 0.693147
 cost after iteration 10: 0.645388
 cost after iteration 20: 0.601154
 ...
+```
 
 ## 🧰 Requirements
 
